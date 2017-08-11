@@ -1,4 +1,4 @@
 # scalaimpatient
 scala impatient learning
 
-#记录学习scala impatient
+--记录学习scala impatient
